@@ -1,0 +1,15 @@
+PING google.com(tlv04s06-in-x0e.1e100.net (2a00:1450:4028:803::200e)) 56 data bytes
+64 bytes from tlv04s06-in-x0e.1e100.net (2a00:1450:4028:803::200e): icmp_seq=1 ttl=119 time=1070 ms
+64 bytes from tlv04s06-in-x0e.1e100.net (2a00:1450:4028:803::200e): icmp_seq=2 ttl=119 time=53.2 ms
+64 bytes from tlv04s06-in-x0e.1e100.net (2a00:1450:4028:803::200e): icmp_seq=3 ttl=119 time=12.3 ms
+64 bytes from tlv04s06-in-x0e.1e100.net (2a00:1450:4028:803::200e): icmp_seq=4 ttl=119 time=21.5 ms
+64 bytes from tlv04s06-in-x0e.1e100.net (2a00:1450:4028:803::200e): icmp_seq=5 ttl=119 time=18.0 ms
+64 bytes from tlv04s06-in-x0e.1e100.net (2a00:1450:4028:803::200e): icmp_seq=6 ttl=119 time=30.2 ms
+64 bytes from tlv04s06-in-x0e.1e100.net (2a00:1450:4028:803::200e): icmp_seq=7 ttl=119 time=26.4 ms
+64 bytes from tlv04s06-in-x0e.1e100.net (2a00:1450:4028:803::200e): icmp_seq=8 ttl=119 time=23.1 ms
+64 bytes from tlv04s06-in-x0e.1e100.net (2a00:1450:4028:803::200e): icmp_seq=9 ttl=119 time=17.8 ms
+64 bytes from tlv04s06-in-x0e.1e100.net (2a00:1450:4028:803::200e): icmp_seq=10 ttl=119 time=18.3 ms
+
+--- google.com ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9030ms
+rtt min/avg/max/mdev = 12.345/129.113/1070.173/313.869 ms, pipe 2

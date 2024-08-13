@@ -1,0 +1,6 @@
+free > free.txt #ram statistics , can do -m to get in mebibytes (https://man7.org/linux/man-pages/man1/free.1.html)
+cat /proc/cpuinfo > cpuinfo.txt # cpu specs
+lscpu -a > lscpu.txt  # more cpu details
+vcgencmd measure_temp > temp.txt # temperature in celcius
+ping -c 10 google.com > ping.txt # 10 pings to google 
+uname -a > uname.txt # os details

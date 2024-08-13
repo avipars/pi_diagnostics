@@ -1,0 +1,1 @@
+Linux pidesktop 6.1.21+ #1642 Mon Apr  3 17:19:14 BST 2023 armv6l GNU/Linux
