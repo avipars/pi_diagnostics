@@ -1,0 +1,1 @@
+Linux raspberrypi 6.6.51+ #1796 Fri Sep 13 14:32:43 BST 2024 armv6l GNU/Linux

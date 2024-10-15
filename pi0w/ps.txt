@@ -1,0 +1,82 @@
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  1 19:20 ?        00:00:13 /sbin/init
+root         2     0  0 19:20 ?        00:00:00 [kthreadd]
+root         3     2  0 19:20 ?        00:00:00 [pool_workqueue_release]
+root         4     2  0 19:20 ?        00:00:00 [kworker/R-slub_]
+root         5     2  0 19:20 ?        00:00:00 [kworker/R-netns]
+root         7     2  0 19:20 ?        00:00:00 [kworker/0:0H-kblockd]
+root         8     2  0 19:20 ?        00:00:02 [kworker/u2:0-events_unbound]
+root         9     2  0 19:20 ?        00:00:00 [kworker/R-mm_pe]
+root        10     2  0 19:20 ?        00:00:00 [rcu_tasks_rude_kthread]
+root        11     2  0 19:20 ?        00:00:00 [rcu_tasks_trace_kthread]
+root        12     2  0 19:20 ?        00:00:00 [ksoftirqd/0]
+root        13     2  0 19:20 ?        00:00:00 [kdevtmpfs]
+root        14     2  0 19:20 ?        00:00:00 [kworker/R-inet_]
+root        15     2  0 19:20 ?        00:00:00 [kworker/u2:1-events_unbound]
+root        16     2  0 19:20 ?        00:00:00 [kauditd]
+root        17     2  0 19:20 ?        00:00:00 [khungtaskd]
+root        18     2  0 19:20 ?        00:00:00 [oom_reaper]
+root        19     2  0 19:20 ?        00:00:00 [kworker/R-write]
+root        20     2  0 19:20 ?        00:00:00 [kcompactd0]
+root        21     2  0 19:20 ?        00:00:00 [kworker/R-kinte]
+root        22     2  0 19:20 ?        00:00:00 [kworker/R-kbloc]
+root        23     2  0 19:20 ?        00:00:00 [kworker/R-blkcg]
+root        24     2  0 19:20 ?        00:00:00 [watchdogd]
+root        25     2  0 19:20 ?        00:00:03 [kworker/u2:2-events_unbound]
+root        27     2  0 19:20 ?        00:00:00 [kworker/R-rpcio]
+root        28     2  0 19:20 ?        00:00:00 [kworker/R-xprti]
+root        31     2  0 19:20 ?        00:00:00 [kswapd0]
+root        32     2  0 19:20 ?        00:00:00 [kworker/R-nfsio]
+root        33     2  0 19:20 ?        00:00:00 [hwrng]
+root        34     2  0 19:20 ?        00:00:00 [kworker/R-iscsi]
+root        35     2  0 19:20 ?        00:00:00 [kworker/R-DWC N]
+root        37     2  0 19:20 ?        00:00:00 [vchiq-slot/0]
+root        38     2  0 19:20 ?        00:00:00 [vchiq-recy/0]
+root        39     2  0 19:20 ?        00:00:00 [vchiq-sync/0]
+root        41     2  0 19:20 ?        00:00:00 [kworker/u3:0-hci0]
+root        42     2  0 19:20 ?        00:00:00 [kworker/R-mmc_c]
+root        43     2  0 19:20 ?        00:00:00 [kworker/0:1H-kblockd]
+root       116     2  0 19:21 ?        00:00:00 [jbd2/mmcblk0p2-8]
+root       117     2  0 19:21 ?        00:00:00 [kworker/R-ext4-]
+root       131     2  0 19:21 ?        00:00:00 [kworker/R-mld]
+root       132     2  0 19:21 ?        00:00:00 [kworker/R-ipv6_]
+root       179     1  0 19:21 ?        00:00:03 /lib/systemd/systemd-journald
+root       188     2  0 19:21 ?        00:00:01 [kworker/0:5-events_power_efficient]
+root       202     1  1 19:21 ?        00:00:12 /lib/systemd/systemd-udevd
+root       320     2  0 19:21 ?        00:00:00 [vchiq-keep/0]
+root       321     2  0 19:21 ?        00:00:00 [SMIO]
+root       339     2  0 19:21 ?        00:00:00 [kworker/R-mmal-]
+root       343     2  0 19:21 ?        00:00:00 [kworker/R-mmal-]
+root       345     2  0 19:21 ?        00:00:00 [kworker/R-mmal-]
+root       348     2  0 19:21 ?        00:00:00 [kworker/R-mmal-]
+root       353     2  0 19:21 ?        00:00:00 [kworker/R-mmal-]
+root       356     2  0 19:21 ?        00:00:00 [kworker/R-mmal-]
+root       359     2  0 19:21 ?        00:00:00 [kworker/R-mmal-]
+systemd+   380     1  0 19:21 ?        00:00:02 /lib/systemd/systemd-timesyncd
+avahi      431     1  0 19:21 ?        00:00:00 avahi-daemon: running [raspberrypi.local]
+root       432     1  0 19:21 ?        00:00:00 /usr/sbin/cron -f
+message+   433     1  0 19:21 ?        00:00:04 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+avahi      434   431  0 19:21 ?        00:00:00 avahi-daemon: chroot helper
+polkitd    441     1  0 19:21 ?        00:00:00 /usr/lib/polkit-1/polkitd --no-debug
+root       470     1  0 19:21 ?        00:00:01 /lib/systemd/systemd-logind
+nobody     477     1  0 19:21 ?        00:00:00 /usr/sbin/thd --triggers /etc/triggerhappy/triggers.d/ --socket /run/thd.socket --user nobody --deviceglob /dev/input/event*
+root       493     1  0 19:21 ?        00:00:05 /usr/sbin/NetworkManager --no-daemon
+root       494     1  0 19:21 ?        00:00:01 /sbin/wpa_supplicant -u -s -O DIR=/run/wpa_supplicant GROUP=netdev
+root       498     1  0 19:21 ?        00:00:01 /usr/sbin/ModemManager
+root       520     1  0 19:22 ?        00:00:00 sshd: /usr/sbin/sshd -D [listener] 0 of 10-100 startups
+root       521     2  0 19:22 ?        00:00:02 [kworker/u3:2-brcmf_wq/mmc1:0001:1]
+root       541     2  0 19:22 ?        00:00:00 [kworker/R-cfg80]
+root       550     1  0 19:22 tty1     00:00:00 /bin/login -p --
+root       552     2  0 19:22 ?        00:00:00 [kworker/R-brcmf]
+root       554     2  0 19:22 ?        00:00:00 [brcmf_wdog/mmc1:0001:1]
+root       662     1  0 19:22 ?        00:00:00 /usr/libexec/bluetooth/bluetoothd
+pi         697     1  0 19:22 ?        00:00:01 /lib/systemd/systemd --user
+pi         698   697  0 19:22 ?        00:00:00 (sd-pam)
+pi         713   550  0 19:22 tty1     00:00:01 -bash
+root       829     2  0 19:27 ?        00:00:00 [kworker/0:0-events_power_efficient]
+root      1007   520  0 19:34 ?        00:00:00 sshd: pi [priv]
+pi        1013  1007  0 19:34 ?        00:00:00 sshd: pi@pts/0
+pi        1014  1013  0 19:34 pts/0    00:00:00 -bash
+root      1038     2  0 19:38 ?        00:00:00 [kworker/0:1-pm]
+pi        1051  1014  0 19:41 pts/0    00:00:00 /bin/bash ./sys_info.sh
+pi        1080  1051 99 19:41 pts/0    00:00:00 ps -ef

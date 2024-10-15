@@ -1,0 +1,9 @@
+wlan0     IEEE 802.11  ESSID:"Example.com"  
+          Mode:Managed  Frequency:2.462 GHz
+          Bit Rate=72.2 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=70/70  Signal level=-13 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
